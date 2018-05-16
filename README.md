@@ -30,4 +30,4 @@ Each invocation of the task happens on a separate goroutine.
 - Building **At** style scheduling
 - Building **Every** style scheduling
 - Adding support for disk persistence and fault tolerance
-- Network interface which allows building and running the library as a standalone server (TBD)
+- Network interface which allows building and running the scheduler as a standalone service (TBD)
